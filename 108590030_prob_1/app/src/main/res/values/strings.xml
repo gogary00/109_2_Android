@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">108590030_prob_1</string>
+    <string name="name">Name:</string>
+    <string name="enterName">Enter your name</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="age">Age:</string>
+    <string name="hobby">Hobby:</string>
+    <string name="sport">Sport</string>
+    <string name="movie">Movie</string>
+    <string name="reading">Reading</string>
+    <string name="submit">Submit</string>
+    <string name="receive">Reply Received:</string>
+</resources>
